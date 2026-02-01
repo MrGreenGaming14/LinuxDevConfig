@@ -1,9 +1,11 @@
 ## Install These Dependencies
-- fzf
-- ripgrep
-- fd
-- Kitty or Alacritty terminal
+- Tailscale
+- Flatpak
+- Deskflow
+- Mosh (SSH Alternative)
+- Docker
+- Localsend
+- TLP (Battery optimization)
 
 ## Correct Versions
-- Neovim should be >= 0.11.2
 - git >= 2.19.0
