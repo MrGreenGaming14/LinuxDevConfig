@@ -3,11 +3,15 @@
 " Don't use vi controls
 set nocompatible
 
-"Enable syntax and plugins 
+" Enable syntax and plugins 
 syntax enable
 filetype plugin on
 filetype on
 filetype indent on
+
+" --- NEW: System Clipboard ---
+" Syncs Vim's yank/delete register with your OS clipboard
+set clipboard=unnamedplus
 
 " Auto update when file is changed externally
 set autoread
@@ -15,6 +19,12 @@ au FocusGained,BufEnter * silent! checktime
 
 " Set map leader
 let mapleader = " "
+
+" --- NEW: KEY Mappings ---
+" Tab management shortcuts
+nnoremap tn :tabnew<CR>
+nnoremap tl :tabprevious<CR>
+nnoremap tr :tabnext<CR>
 
 " Display cursor's current position
 set ruler
