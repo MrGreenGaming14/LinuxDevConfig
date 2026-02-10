@@ -1,4 +1,6 @@
 # Install These Dependencies
+- Git
+- Vim
 - Tailscale
 - Flatpak
 - Deskflow
@@ -11,8 +13,16 @@
 - p7zip-full
     - Unzipping files
 
+# Desktop Only 
+- QEMU
+- Virtual Machine Manager for QEMU
+- WinBoat
+
 # Correct Versions
 - git >= 2.19.0
+
+# Linux Mint Customizations 
+1. Nothing yet
 
 # Commands
 
