@@ -1,28 +1,44 @@
 # Install These Dependencies
+- Brave Browser with DDG search
+- openssh-server
+- Chrome Dev edition
+    - For easy browser development
 - Git
 - Vim
 - Tailscale
 - Flatpak
 - Deskflow
+- Signal messenger app
 - flameshot
     - Change PrtScn screenshot function to flameshot screenshot function
+- OnlyOffice
 - Mosh (SSH Alternative)
-- Docker
+- Podman
 - Localsend
-- TLP (Battery optimization)
 - p7zip-full
     - Unzipping files
+- preload
 
 # Desktop Only 
 - QEMU
 - Virtual Machine Manager for QEMU
 - WinBoat
 
+# Laptop Only
+- TLP
+
 # Correct Versions
 - git >= 2.19.0
 
 # Linux Mint Customizations 
-1. Nothing yet
+1. Dock
+2. Wallpaper
+3. Top bar
+4. Desktop Icons
+5. Start menu
+6. Linux Gaming
+    - Use itsfoss.com article
+7. Using Wine on linux
 
 # Commands
 
