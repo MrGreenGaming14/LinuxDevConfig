@@ -5,6 +5,7 @@
     - For easy browser development
 - Git
 - Vim
+- tmux
 - Tailscale
 - Flatpak
 - Deskflow
